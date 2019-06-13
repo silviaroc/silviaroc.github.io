@@ -2166,7 +2166,7 @@ body {
 }
 
 .main-wrapper-first {
-    background: #edd5cf;
+    background: #f0e1dd;
 }
 
 .banner-content {
@@ -2192,7 +2192,7 @@ body {
 }
 
 .banner-area {
-    background: #edd5cf;
+    background: #f0e1dd;
 }
 
 .featured-area {
@@ -2528,4 +2528,14 @@ body {
 
 .about-generic-area {
     background-color: #fff;
+}
+
+.img-logo-banner {
+    width: 320px;
+}
+
+.banner-content h2 {
+    color: #894969;
+    font-weight: 400;
+    padding-top: 60px;
 }
