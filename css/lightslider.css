@@ -208,12 +208,12 @@
 
 .lSAction>.lSPrev {
     background-position: 0 0;
-    left: 75px;
+    left: 12px;
 }
 
 .lSAction>.lSNext {
     background-position: -32px 0;
-    right: 75px;
+    right: 12px;
 }
 
 .lSAction>a.disabled {
