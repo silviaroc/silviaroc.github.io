@@ -2166,7 +2166,7 @@ body {
 }
 
 .main-wrapper-first {
-    background: #f0e1dd;
+    background: #f2e4e0;
 }
 
 .banner-content {
@@ -2192,7 +2192,7 @@ body {
 }
 
 .banner-area {
-    background: #f0e1dd;
+    background: #f2e4e0;
 }
 
 .featured-area {
@@ -2486,6 +2486,7 @@ body {
     background-size: cover;
     color: #fff;
     margin-bottom: 90px;
+    background-position: top center;
 }
 
 .footer-area i {
